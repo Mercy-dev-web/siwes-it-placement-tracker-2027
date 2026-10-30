@@ -35,3 +35,7 @@ To create a structured, data-driven approach to finding and evaluating SIWES opp
 ## Project Status
 
 Developed for my 2027 SIWES placement search and continuously refined as I research organisations and progress through the application process.
+
+## Dashboard Preview
+
+![SIWES Tracker Dashboard](dashboard-preview.png)
